@@ -15,3 +15,4 @@ References are the [App Engine Endpoints Gradle template](https://github.com/Goo
 Keys referenced in the PrivateConstants class in both the backend and frontend are not included in the repo.  You will have to generate your own in [Google's Developer Console](console.developers.google.com).  The application id "alien-program-642" in appengine-web.xml also needs to be generated and replaced.
 
 Two other example projects by the Google Cloud team worth looking at are the [App Engine Tic-Tac-Toe backend](https://github.com/GoogleCloudPlatform/appengine-endpoints-tictactoe-java) and [Tic-Tac-Toe Android frontend](https://github.com/GoogleCloudPlatform/appengine-endpoints-tictactoe-android).
+
